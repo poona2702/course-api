@@ -9,6 +9,6 @@ public class HelloWorldController {
 	@RequestMapping(value="/")
 	public String hello() {
 		
-		return "Hello World version 6";
+		return "Hello World version 7";
 	}
 }
